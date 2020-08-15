@@ -30,6 +30,9 @@ Esse projeto foi desenvolvido em Kotlin, utilizando os seguintes recursos da lin
 - RxJava
 - Retrofit
 
+## 💻 Projeto
+
+Projeto desenvolvido para demonstrar a utilização de recursos importantes em Kotlin.
 
 
 
