@@ -1,4 +1,6 @@
-# Android Jetpack - DogsAPI
+<h1 align="center">
+   Android Jetpack - DogsAPI
+</h1>
 
 ![1](https://user-images.githubusercontent.com/7034344/79164919-78102580-7db8-11ea-83cb-6debda0f6c7d.png)
 ![2](https://user-images.githubusercontent.com/7034344/79164936-7f373380-7db8-11ea-919d-d5b0004db63d.png)
